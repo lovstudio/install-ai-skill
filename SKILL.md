@@ -1,11 +1,11 @@
 ---
-name: lovstudio-install-ai
+name: sgc-install-ai
 description: >
   为现有或新 App 快速初始化可上线的 AI 功能，可选择本地 Agent Client、MaaS 中转渠道、模型偏好和配套 UI。用户说集成 AI、给 App 加聊天/生成能力、Agent Client、MaaS 或模型选择时使用。
 license: MIT
 metadata:
   author: lovstudio
-  version: "0.1.0"
+  version: "0.1.1"
   tags:
     - ai
     - maas
