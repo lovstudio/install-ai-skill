@@ -1,10 +1,10 @@
 # Changelog
 
-## [0.2.0] - 2026-08-24
+## [0.1.1] - 2026-09-07
 
 ### Added
 
-- add the shared feedback-classification and approval-invalidation gate used by every LovStudio Skill
+- 统一展示名为「AI 接入助手」，保持调用 ID 与能力契约。
 
 ## 0.1.0
 
