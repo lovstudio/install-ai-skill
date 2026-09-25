@@ -1,6 +1,6 @@
 # AI 接入助手 · AI Integrator
 
-![Version](https://img.shields.io/badge/version-0.1.1-CC785C)
+![Version](https://img.shields.io/badge/version-0.2.1-CC785C)
 
 为 App 快速加入可上线的 AI 功能，并在本地 Agent Client、MaaS 和混合模式之间选择合适通道。
 
